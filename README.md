@@ -33,6 +33,8 @@ License
 
 
 Getting BPM using Pulse Sensor Library
+
+
 This is a simple Arduino sketch that reads a Pulse Sensor signal and calculates the user's BPM (beats per minute) using the Pulse Sensor Playground library. The BPM value is displayed in the Arduino Serial Monitor and the built-in LED is also blinked according to the heartbeat.
 
 Installation
@@ -61,6 +63,8 @@ MIT
 
 
 Saviour - Critical Care
+
+
 This is the source code for the Saviour - Critical Care website. It uses HTML and CSS, and the Flowbite CSS framework.
 
 Getting Started
